@@ -1,0 +1,16 @@
+#
+# This is a comment
+#
+
+Nonterminals:
+    S, S
+End
+
+Sigma:
+    a
+    b
+End
+
+Productions:
+    S -> aSb | ~
+End

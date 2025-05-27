@@ -1,0 +1,20 @@
+#
+# This is a comment
+#
+
+Nonterminals:
+    S, Start
+    A
+    B
+End
+
+Sigma:
+    a
+    b
+End
+
+Productions:
+    S -> A | B | ~
+    A -> aAb | aA | a
+    B -> aBb | Bb | b
+End
