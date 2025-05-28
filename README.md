@@ -89,7 +89,3 @@ S -> aA -> aa
 
 **Radu Dimitrie Octavian**  
 Grupa 152
-
-## 📄 License
-
-This project is licensed under the MIT License.
